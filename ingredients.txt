@@ -3,3 +3,4 @@ lime
 salt
 jalapenos
 tomato
+cilantro
